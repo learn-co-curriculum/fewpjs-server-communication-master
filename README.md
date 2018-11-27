@@ -6,8 +6,8 @@ Let's touch base with the reference example we started out with, our "Simple
 Liker" app. Through it, we can interact with all three of our pillars of front-
 end web programming:
 
-- Manipulating the DOM
-- Recognizing JavaScript events
+- ☑ Manipulating the DOM
+- ☑ Recognizing JavaScript events
 - ☑ Communicating with the server
 
 You've just finished learning about pillar three, communicating with the server.
